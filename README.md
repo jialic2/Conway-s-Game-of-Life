@@ -32,7 +32,7 @@ This implementation of Conway's Game of Life features:
 ## Author
 - Jiali Chen - https://github.com/jialic2
 ## Acknowledgements
-- Myself
+- Me, myself and I
 - openFrameworks Documentation
 - Stephen Braitsch - https://github.com/braitsch for ofxDatGui addon
 - All TAs and moderators offering help to me in person or through Piazza
