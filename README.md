@@ -9,7 +9,7 @@ This part mainly focuses on helping you setting up a copy of the project on your
 - Download this project to your local machine.
 - Clone or download the ofxDatGui addon from https://github.com/braitsch/ofxDatGui and place it under your openFrameworks/addons directory
 - Create a new OF project by the project generator under your openFrameworks/projectGenerator directory, include ofxDatGui by selecting the addons button in the generator (if it says ofxDatGui not found, choose ofxDatGui-master if that is the case).
-- Go to your project directory, go to the directory bin/data (if /data has not been created, create one), copy the ofxbraitsch directory in the root of ofxDatGui directory to your project's bin/data directory. This directory contains the fonts & icons used by ofxDatGui. Also copy the "StoneWalls.ttf" and ""UbuntuMono-Regular.ttf" files to bin/data, as these two files are fonts used by this project.
+- Go to your project directory, go to the directory bin/data (if /data has not been created, create one), copy the ofxbraitsch directory in the root of ofxDatGui directory to your project's bin/data directory. This directory contains the fonts & icons used by ofxDatGui. Also copy the fonts directory to bin/data, as the two files under this directory are fonts used by this project.
 ### Build
 - Build the project in your IDE and run
 ## Game Rules
