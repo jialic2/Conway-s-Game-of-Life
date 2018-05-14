@@ -1,4 +1,4 @@
-# CS 126 Final Project
+# Conway's Game of Life (CS126 Sp 18 Final Project)
 This project is an implementation of the Conway's Game of Life (for more information, see https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) using the open source C++ toolkit openFramworks (http://openframeworks.cc/) for CS 126 final project spring 2018 by Jiali Chen. Also uses the ofxDatGui addon to improve graphical user interface (http://braitsch.github.io/ofxDatGui/).
 ## Getting Started
 This part mainly focuses on helping you setting up a copy of the project on your local machine.
